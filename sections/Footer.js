@@ -108,7 +108,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="text-center dark:text-white text-black p-2 bg-transparent font-mono flex justify-center md:justify-end">
-        <span className="dark:text-white text-black font-bold text-md mr-1"> &#60; sherwin-dev /&#62;</span>   &copy; {new Date().getFullYear()}   All Rights Reserved
+        <span className="dark:text-white text-black font-bold text-sm mr-1"> &#60; sherwin-dev /&#62;</span>   &copy; {new Date().getFullYear()}   All Rights Reserved
       </div>
     </footer>
   );
