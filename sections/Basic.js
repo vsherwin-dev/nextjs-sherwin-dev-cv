@@ -8,7 +8,7 @@ const Basic = ({ children }) => {
   return(
     <>
       <Head>
-        <title>&#60; sherwin-dev /&#62;</title>
+        <title>&#60;sherwin-dev /&#62;</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
