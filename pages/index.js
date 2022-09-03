@@ -5,6 +5,7 @@ import Timeline from '../components/timeline'
 import Skills from '../components/skills'
 import Services from '../components/services'
 import Projects from '../components/projects'
+import Contact from '../components/contact'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Skills />
       <Services />
       <Projects />
+      <Contact />
     </Basic>
   );
 }

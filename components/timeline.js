@@ -8,9 +8,9 @@ export default function Timeline(){
         <div className="flex flex-col md:flex-row items-start space-x-1 px-0 lg:px-24">
             <div className="item w-full md:w-1/2 h-auto">
                 <div className="pl-64 pt-20">
-                    <p className="text-[16px] font-mono uppercase hover:animate-pulse dark:text-white text-black"><span className="shadow-[0_3px_0_0_rgba(0,0,0,0.3)] shadow-[#f26b38]">Experience</span></p>
+                    <p className="text-[16px] font-mono uppercase hover:animate-pulse dark:text-white text-black"><span className="custom-underline">Experience</span></p>
                 </div>
-                <div className="w-auto flex flex-col justify-center items-center overflow-hidden mx-auto py-14 px-14">
+                <div className="w-auto flex flex-col justify-center items-center overflow-hidden mx-auto py-14 px-12">
                     <ol className="relative border-l border-[#f26b38]"> 
                         <li className="mb-10 ml-6">            
                         <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#f26b38] bg-gray-800">
@@ -66,9 +66,9 @@ export default function Timeline(){
 
             <div className="item w-full md:w-1/2 h-auto">
                 <div className="pl-64 pt-20">
-                    <p className="text-[16px] font-mono uppercase hover:animate-pulse dark:text-white text-black"><span className="shadow-[0_3px_0_0_rgba(0,0,0,0.3)] shadow-[#f26b38]">Education</span></p>
+                    <p className="text-[16px] font-mono uppercase hover:animate-pulse dark:text-white text-black"><span className="custom-underline">Education</span></p>
                 </div>
-                <div className="w-auto flex flex-col justify-center overflow-hidden mx-auto py-14 px-14">
+                <div className="w-auto flex flex-col justify-center overflow-hidden mx-auto py-14 px-10">
                     <ol className="relative border-l border-[#f26b38]"> 
                         <li className="mb-10 ml-6">            
                             <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#f26b38] bg-gray-800">

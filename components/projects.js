@@ -5,9 +5,9 @@ export default function Projects() {
       <>
         <section>
           <div className="pl-64 pt-20 pb-16">
-              <p className="text-[16px] font-mono uppercase hover:animate-pulse text-black"><span className="shadow-[0_3px_0_0_rgba(0,0,0,0.3)] shadow-[#f26b38]">Projects I have worked on as Junior Web Developer</span></p>
+              <p className="text-[16px] font-mono uppercase hover:animate-pulse  dark:text-white text-black"><span className="custom-underline">Projects I have worked on as Junior Web Developer</span></p>
           </div>
-          <div className="h-auto min-h-auto max-h-auto 1080:max-h-[700px] 1220:max-h-[890px] px-12 lg:px-44 pb-14">
+          <div className="h-auto min-h-auto max-h-auto 1080:max-h-[700px] 1220:max-h-[890px] px-8 lg:px-44 pb-14">
               <div className="grid grid-cols-1 sm:grid-cols-2  gap-10 font-mono">
               
                   <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
