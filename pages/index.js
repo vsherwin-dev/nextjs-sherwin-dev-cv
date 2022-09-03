@@ -1,11 +1,17 @@
 import Basic from "../sections/Basic";
+import Banner from '../components/banner'
+import About from '../components/about'
+import Timeline from '../components/timeline'
+import Skills from '../components/skills'
+
 
 export default function Home() {
   return (
     <Basic>
-      <section className="h-[90vh]">
-        
-      </section>
+      <Banner />
+      <About />
+      <Timeline />
+      <Skills />
     </Basic>
   );
 }
