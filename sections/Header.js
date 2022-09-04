@@ -31,13 +31,21 @@ const Header = () => {
    };
 
   return (
-    <header className="h-15 w-full fixed shadow-sm dark:border-gray-700 z-50">
-      <div className="container  px-4 sm:px-6 py-4 flex justify-between items-center">
-        {/* Logo */}
-        <Logo />
-        {renderThemeChanger()}
-      </div>
-    </header>
+    <div className="fixed z-40 w-screen">
+      <header className={`z-50 px-5 py-2 w-full transition duration-300 ease-in-out sticky top-0 left-0`}>
+          <div className="max-w-screen-xl m-auto grid grid-flow-col items-center gap-5">
+            <div>
+              <Logo />
+            </div>
+            <div className="ml-auto">
+              <div className="transform transition ease-in-out hover:scale-105 flex items-center space-x-5">
+                {/* Logo */}
+                {renderThemeChanger()}
+              </div>
+            </div>
+          </div>
+        </header>
+    </div>
   );
 };
 
