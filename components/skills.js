@@ -44,6 +44,7 @@ export default function Skills(){
               <li>Proficiency in Microsoft Office Tools.</li>
               <li>Knowledgeable in Application Testing. (UFT, Load Runner)</li>
               <li>Knowledgeable in MsSQL.</li>
+              <li>Knowledgeable in github and Azure DevOps.</li>
               <li>Knowledgeable in Bootstrap.</li>
               <li>Knowledgeable in Photoshop.</li>
               <li>Web Design.</li>
