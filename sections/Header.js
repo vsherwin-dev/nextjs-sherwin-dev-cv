@@ -7,6 +7,7 @@ const Header = () => {
 
   const {systemTheme , theme, setTheme} = useTheme ();
   const [mounted, setMounted] = useState(false);
+  const [navbar, setNavbar] = useState(false)
   
   useEffect(() =>{
     setMounted(true);
@@ -30,9 +31,22 @@ const Header = () => {
       }
    };
 
+   const changeBackground = () => {
+    if (window.scrollY >= 66) {
+      setNavbar(true)
+    } else {
+      setNavbar(false)
+    }
+  }
+
+  useEffect(() => {
+    changeBackground()
+    window.addEventListener("scroll", changeBackground)
+  })
+
   return (
     <div className="fixed z-40 w-screen">
-      <header className={`z-50 px-5 py-2 w-full transition duration-300 ease-in-out sticky top-0 left-0`}>
+      <header className={navbar ? "navbar active" : "navbar"}>
           <div className="max-w-screen-xl m-auto grid grid-flow-col items-center gap-5">
             <div>
               <Logo />
