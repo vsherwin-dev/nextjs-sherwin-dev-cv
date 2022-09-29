@@ -1,4 +1,4 @@
-import dp from '../public/img/profile.jpg'
+import dp from '../public/img/profile-removebg.png'
 
 export default function About(){
 
