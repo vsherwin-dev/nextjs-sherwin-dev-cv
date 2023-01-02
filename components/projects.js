@@ -57,10 +57,33 @@ export default function Projects() {
   
                   <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <a href="https://drnewmanbeverlyhills.com/"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">drnewmanbeverlyhills.com</div></a>
-                      <h3 className="text-22 font-bold uppercase">drnewmanbeverlyhills.com/</h3>
+                      <h3 className="text-22 font-bold uppercase">drnewmanbeverlyhills.com</h3>
                       <p className="text-body">Tags: wordpress, react js</p>
                   </div>
-  
+
+                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://amalfi-outfitters.com/"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">amalfi-outfitters.com</div></a>
+                      <h3 className="text-22 font-bold uppercase">amalfi-outfitters.com</h3>
+                      <p className="text-body">Tags: shopify, shopify liquid</p>
+                  </div>
+
+                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://hollywoodpc.com/"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">hollywoodpc.com</div></a>
+                      <h3 className="text-22 font-bold uppercase">HollywoodPC</h3>
+                      <p className="text-body">Tags: wordpress</p>
+                  </div>
+
+                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://wemploymentlaw.com/"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">wemploymentlaw.com</div></a>
+                      <h3 className="text-22 font-bold uppercase">W Employment Law</h3>
+                      <p className="text-body">Tags: wordpress</p>
+                  </div>
+
+                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://laguardians.org/"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">laguardians.org</div></a>
+                      <h3 className="text-22 font-bold uppercase">LA Guardians</h3>
+                      <p className="text-body">Tags: Joomla, bootstrap, html, CSS</p>
+                  </div>
                 </div>
               </div>
         </section>
