@@ -21,6 +21,37 @@ export default function Timeline(){
                         </li>
 
 
+                        <li className="mb-10 ml-6">            
+                            <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#8494e3] bg-gray-800">
+                                <svg aria-hidden="true" className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd"></path></svg>
+                            </span>
+                            <h3 className="flex items-center mb-1 text-[18px] font-bold text-[#6246ea]">SHOPIFY THEME DEVELOPER</h3>
+                            <h3 className="flex items-center mb-1 text-[14px] font-semibold dark:text-white text-black">The Gift Group</h3>
+                            <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">SEPT 2023 – Present</time>
+                            <ul className="mb-4 text-[12px] font-normal list-disc pl-8 dark:text-white text-black">
+                                <li>Creating and integrating custom Shopify themes and templates.</li>
+                                <li>Customizing Shopify apps and plugins to extend website functionality.</li>
+                                <li>Writing functional requirement documents and guides</li>
+                                <li>Optimizing websites for search engines (SEO) and ensuring proper implementation of tracking codes.</li>
+                            </ul>
+                        </li>
+
+
+                        <li className="mb-10 ml-6">            
+                            <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#8494e3] bg-gray-800">
+                                <svg aria-hidden="true" className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd"></path></svg>
+                            </span>
+                            <h3 className="flex items-center mb-1 text-[18px] font-bold text-[#6246ea]">SHOPIFY THEME DEVELOPER & BOOTCAMP INSTRUCTOR</h3>
+                            <h3 className="flex items-center mb-1 text-[14px] font-semibold dark:text-white text-black">Element Code Camp</h3>
+                            <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">FEB 2023 – Present</time>
+                            <ul className="mb-4 text-[12px] font-normal list-disc pl-8 dark:text-white text-black">
+                                <li>Maintaining and improving client websites</li>
+                                <li>Generating WordPress themes and plugins.</li>
+                                <li>Writing functional requirement documents and guides</li>
+                                <li>Executing and evaluating manual test cases and report test results</li>
+                                <li>Serving as an instructor or teacher in a web development bootcamp.</li>
+                            </ul>
+                        </li>
 
 
                         <li className="mb-10 ml-6">            
@@ -31,12 +62,12 @@ export default function Timeline(){
                             <h3 className="flex items-center mb-1 text-[14px] font-semibold dark:text-white text-black">Inspree Marketing & Design</h3>
                             <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">APR 2022 – DEC 2022</time>
                             <ul className="mb-4 text-[12px] font-normal list-disc pl-8 dark:text-white text-black">
-                                <li>Maintaining and improving client websites</li>
-                                <li>Generating WordPress themes and plugins.</li>
-                                <li>Creating ReactJS components</li>
-                                <li>Writing functional requirement documents and guides</li>
-                                <li>Execute and evaluate manual test cases and report test results</li>
-                                <li>Evaluating code to ensure it meets industry standards, is valid, is properly structured, and is compatible with browsers, devices, or operating systems.</li>
+                                <li>Maintain and improve client websites</li>
+                                <li>Generate WordPress themes and plugins.</li>
+                                <li>Create ReactJS components</li>
+                                <li>Wrote functional requirement documents and guides</li>
+                                <li>Execute and evaluated manual test cases and report test results</li>
+                                <li>Evaluate code to ensure it meets industry standards, is valid, is properly structured, and is compatible with browsers, devices, or operating systems.</li>
                             </ul>
                         </li>
 

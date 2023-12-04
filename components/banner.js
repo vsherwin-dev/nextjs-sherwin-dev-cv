@@ -10,7 +10,7 @@ export default function Banner(){
     }}>
           <div className="h-[50vh] md:h-[100vh] flex flex-col justify-center items-center flex-wrap overflow-hidden">
               
-          <h1 className="uppercase text-[24px] md:text-[68px] text-white font-mono line">Hi, I am <span className="text-[#41755b] hover:animate-pulse">Sherwin</span> ...</h1>
+          <h1 className="uppercase text-[24px] md:text-[68px] text-white font-mono line">Hi, I am <span className="text-[#6246ea] hover:animate-pulse">Sherwin</span> ...</h1>
           <p className="text-white font-mono text-[16px] md:text-[24px] tracking-tighter hover:animate-spin">Web Developer / QA Analyst</p>
           <p className="text-white font-mono text-[12px] md:text-[16px] tracking-tighter">I design and code simple things, and I love what I do.</p>
   

@@ -1,6 +1,15 @@
-import dp from '../public/img/profile-removebg.png'
+// import dp from '../public/img/profile-removebg.png'
 
 export default function About(){
+
+  const birthdate = new Date('1998-07-31');
+  const currentDate = new Date();
+  const age = currentDate.getFullYear() - birthdate.getFullYear();
+  const hasBirthdayPassed =
+    currentDate.getMonth() > birthdate.getMonth() ||
+    (currentDate.getMonth() === birthdate.getMonth() &&
+      currentDate.getDate() >= birthdate.getDate());
+  const finalAge = hasBirthdayPassed ? age : age - 1;
 
     return(
       <section>
@@ -13,9 +22,9 @@ export default function About(){
               <div className="item w-auto h-auto">
                 <div className="rounded-full bg-cover hover:animate-bounce" 
                 style={{
-                    backgroundImage: `url(${dp.src})`,
-                    width: '112px',
-                    height: '112px'
+                  backgroundImage: `url('/img/s.png')`,
+                  width: '145px',
+                  height: '145px',
                 }}>
                 </div>
               </div>
@@ -23,7 +32,7 @@ export default function About(){
                 <p className="font-mono pb-8">Hello! I’m Neil Sherwin. Web Developer from Philippines, Nueva Ecija. I have rich experience in web site building, also I am good at wordpress and shopify.</p>
                 <div className="flex-inline flex-wrap text-[14px]">
                   <div className="basis-full"><span className="text-[#6246ea]">Name:</span> Neil Sherwin Velasquez</div>
-                  <div className="basis-full"><span className="text-[#6246ea]">Age:</span> 24 Years</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Age:</span> {finalAge} year old</div>
                   <div className="basis-full"><span className="text-[#6246ea]">Job:</span> Web Developer</div>
                   <div className="basis-full"><span className="text-[#6246ea]">Citizenship:</span> Filipino</div>
                   <div className="basis-full"><span className="text-[#6246ea]">Residence:</span> Nueva Ecija, Philippines</div>

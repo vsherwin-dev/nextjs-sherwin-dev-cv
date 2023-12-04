@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="">
         <div className="flex justify-center md:justify-end mb-2">
           <Link href="https://www.facebook.com/sherwinonlyy">
-            <a className="mr-9 text-gray-800">
+            <a className="mr-9 text-gray-800" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -26,7 +26,7 @@ const Footer = () => {
           </Link>
     
           <Link href="https://twitter.com/sherwinonlyy">
-            <a className="mr-9 text-gray-800">
+            <a className="mr-9 text-gray-800" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -47,7 +47,7 @@ const Footer = () => {
     
     
           <Link href="https://www.instagram.com/hoysherwin/">
-            <a className="mr-9 text-gray-800">
+            <a className="mr-9 text-gray-800" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -67,7 +67,7 @@ const Footer = () => {
           </Link>
           
           <Link href="https://www.linkedin.com/in/neil-sherwin-velasquez-781632239/">
-            <a className="mr-9 text-gray-800">
+            <a className="mr-9 text-gray-800" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -87,7 +87,7 @@ const Footer = () => {
           </Link>
     
           <Link href="https://github.com/vsherwin-dev">
-            <a className="text-gray-800">
+            <a className="text-gray-800" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"

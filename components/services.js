@@ -10,7 +10,7 @@ export default function Services() {
           <div className="h-auto min-h-auto max-h-auto 1080:max-h-[700px] 1220:max-h-[890px] px-8 lg:px-44 pb-14">
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 font-mono">
               
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white text-black p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white text-black p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="bg-cover h-8 w-8 hover:animate-pulse">
                         <Image 
                             src="/img/fe-logo.png"
@@ -23,7 +23,7 @@ export default function Services() {
                       <p className="text-body">Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript.</p>
                   </div>
   
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="hover:animate-pulse">
                         <Image 
                             src="/img/mobile.png"
@@ -36,7 +36,7 @@ export default function Services() {
                       <p className="text-body">A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile.</p>
                   </div>
   
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="hover:animate-pulse">
                       <Image 
                             src="/img/magn.png"
@@ -49,7 +49,7 @@ export default function Services() {
                       <p className="text-body">Investigation, examination, inquiry, research express the idea of an active effort to find out something.</p>
                   </div>
   
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="hover:animate-pulse">
                       <Image 
                             src="/img/code.png"
@@ -62,7 +62,7 @@ export default function Services() {
                       <p className="text-body">Computer programming is the process of designing and building an executable computer program to accomplish a specific.</p>
                   </div>
   
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="hover:animate-pulse">
                         <Image 
                                 src="/img/supp.png"
@@ -75,7 +75,7 @@ export default function Services() {
                       <p className="text-body">Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows.</p>
                   </div>
   
-                  <div className="bg-[#ececec] dark:bg-[#111111] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
                       <div className="hover:animate-pulse">
                       <Image 
                             src="/img/chrome.png"
