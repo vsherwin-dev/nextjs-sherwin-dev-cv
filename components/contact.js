@@ -9,13 +9,13 @@ export default function Contact(){
           </div>
           <div className="flex-line items-center space-y-1 py-14 px-8 lg:px-24 dark:text-white text-black">
             <div className="item w-full h-auto">
-                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#f26b38] font-bold">Email:</span> vneilsherwin123@gmail.com</div>
+                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#6246ea] font-bold">Email:</span> vneilsherwin123@gmail.com</div>
             </div>
             <div className="item w-full h-auto">
-                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#f26b38] font-bold">Phone:</span> ---</div>
+                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#6246ea] font-bold">Phone:</span> ---</div>
             </div>
             <div className="item w-full h-auto">
-                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#f26b38] font-bold">Location:</span> Nueva Ecija, Philippines</div>
+                <div className="basis-full sm:basis-6/12 lg:basis-2/6"><span className="text-[#6246ea] font-bold">Location:</span> Nueva Ecija, Philippines</div>
             </div>
         </div>    
           <div className="h-auto flex flex-col pb-[50px] items-center flex-wrap overflow-hidden w-full gap-4 px-8 lg:px-24">
@@ -69,7 +69,7 @@ export default function Contact(){
                     type="button"
                     data-mdb-ripple="true"
                     data-mdb-ripple-color="light"
-                    className="inline-block px-6 py-2.5 bg-[#f26b38] text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out hover:animate-pulse"
+                    className="inline-block px-6 py-2.5 bg-[#6246ea] text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out hover:animate-pulse"
                 >Hit me!</button>
           </div>
        </div>

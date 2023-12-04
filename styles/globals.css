@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply bg-gray-50 text-gray-900 dark:bg-black dark:text-gray-100;
+    @apply bg-[#b8c1ec] text-gray-900 dark:bg-[#232946] dark:text-gray-100;
     @apply min-h-screen;
   }
 
@@ -20,7 +20,7 @@
 
 .custom-underline {
   text-decoration: underline;
-  text-decoration-color: #f26b38;
+  text-decoration-color: #6246ea;
   text-underline-offset: 3px;
   text-decoration-thickness: 2px;
 }
@@ -49,6 +49,6 @@ body {
 }
 
 .navbar.active {
-  background-color: #f26b38;
+  background-color: #121629;
   opacity: 1;
 }

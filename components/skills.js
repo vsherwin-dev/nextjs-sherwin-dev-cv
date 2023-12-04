@@ -12,27 +12,27 @@ export default function Skills(){
             <div className="w-[80%] sm:w-[60%] pb-6">
               <div className="mb-1 text-[14px] font-medium font-mono dark:text-white text-black">HTML / CSS</div>
               <div className="w-full bg-gray-200 rounded-full dark:bg-gray-700">
-                <div className="bg-[#f26b38] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[95%]"> 95%</div>
+                <div className="bg-[#6246ea] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[95%]"> 95%</div>
               </div>
             </div>
             <div className="w-[80%] sm:w-[60%] pb-6">
               <div className="mb-1 text-[14px] font-medium font-mono dark:text-white text-black">React JS / JavaScript</div>
               <div className="w-full bg-gray-200 rounded-full dark:bg-gray-700">
-                <div className="bg-[#f26b38] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[80%]"> 80%</div>
+                <div className="bg-[#6246ea] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[80%]"> 80%</div>
               </div>
             </div>
 
             <div className="w-[80%] sm:w-[60%] pb-6">
               <div className="mb-1 text-[14px] font-medium font-mono dark:text-white text-black">PHP / MYSQL</div>
               <div className="w-full bg-gray-200 rounded-full dark:bg-gray-700">
-                <div className="bg-[#f26b38] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[85%]"> 85%</div>
+                <div className="bg-[#6246ea] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[85%]"> 85%</div>
               </div>
             </div>
 
             <div className="w-[80%] sm:w-[60%] pb-6">
               <div className="mb-1 text-[14px] font-medium font-mono dark:text-white text-black">WordPress / Shopify</div>
               <div className="w-full bg-gray-200 rounded-full dark:bg-gray-700">
-                <div className="bg-[#f26b38] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[90%]"> 90%</div>
+                <div className="bg-[#6246ea] text-xs font-medium text-white text-center p-0.5 leading-none rounded-full w-[90%]"> 90%</div>
               </div>
             </div>
           </div>

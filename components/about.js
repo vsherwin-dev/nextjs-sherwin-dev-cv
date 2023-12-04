@@ -22,12 +22,12 @@ export default function About(){
               <div className="item w-full h-auto font-mono">
                 <p className="font-mono pb-8">Hello! I’m Neil Sherwin. Web Developer from Philippines, Nueva Ecija. I have rich experience in web site building, also I am good at wordpress and shopify.</p>
                 <div className="flex-inline flex-wrap text-[14px]">
-                  <div className="basis-full"><span className="text-[#f26b38]">Name:</span> Neil Sherwin Velasquez</div>
-                  <div className="basis-full"><span className="text-[#f26b38]">Age:</span> 24 Years</div>
-                  <div className="basis-full"><span className="text-[#f26b38]">Job:</span> Web Developer</div>
-                  <div className="basis-full"><span className="text-[#f26b38]">Citizenship:</span> Filipino</div>
-                  <div className="basis-full"><span className="text-[#f26b38]">Residence:</span> Nueva Ecija, Philippines</div>
-                  <div className="basis-full"><span className="text-[#f26b38]">Email:</span> vneilsherwin123@gmail.com</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Name:</span> Neil Sherwin Velasquez</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Age:</span> 24 Years</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Job:</span> Web Developer</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Citizenship:</span> Filipino</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Residence:</span> Nueva Ecija, Philippines</div>
+                  <div className="basis-full"><span className="text-[#6246ea]">Email:</span> vneilsherwin123@gmail.com</div>
                 </div>
               </div>
             </div>

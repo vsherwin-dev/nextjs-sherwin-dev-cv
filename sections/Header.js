@@ -26,7 +26,7 @@ const Header = () => {
 
       else {
         return (
-          <MoonIcon className="w-10 h-10 text-gray-900 " role="button" onClick={() => setTheme('dark')} />
+          <MoonIcon className="w-10 h-10 text-[#b8c1ec] " role="button" onClick={() => setTheme('dark')} />
         )
       }
    };
