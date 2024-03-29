@@ -20,6 +20,21 @@ export default function Timeline(){
                             <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">OCT 2018 – PRESENT</time>
                         </li>
 
+                        <li className="mb-10 ml-6">            
+                            <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#8494e3] bg-gray-800">
+                                <svg aria-hidden="true" className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd"></path></svg>
+                            </span>
+                            <h3 className="flex items-center mb-1 text-[18px] font-bold text-[#6246ea]">SHOPIFY THEME DEVELOPER</h3>
+                            <h3 className="flex items-center mb-1 text-[14px] font-semibold dark:text-white text-black">Selluxe Coding</h3>
+                            <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">FEB 2024 – Present</time>
+                            <ul className="mb-4 text-[12px] font-normal list-disc pl-8 dark:text-white text-black">
+                                <li>Creating and integrating custom Shopify themes and templates.</li>
+                                <li>Customizing Shopify apps and plugins to extend website functionality.</li>
+                                <li>Writing functional requirement documents and guides</li>
+                                <li>Optimizing websites for search engines (SEO) and ensuring proper implementation of tracking codes.</li>
+                            </ul>
+                        </li>
+
 
                         <li className="mb-10 ml-6">            
                             <span className="flex absolute -left-3 justify-center items-center w-6 h-6 rounded-full ring-8 ring-[#8494e3] bg-gray-800">
@@ -43,7 +58,7 @@ export default function Timeline(){
                             </span>
                             <h3 className="flex items-center mb-1 text-[18px] font-bold text-[#6246ea]">SHOPIFY THEME DEVELOPER & BOOTCAMP INSTRUCTOR</h3>
                             <h3 className="flex items-center mb-1 text-[14px] font-semibold dark:text-white text-black">Element Code Camp</h3>
-                            <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">FEB 2023 – Present</time>
+                            <time className="block mb-2 text-[12px] font-semibold leading-none dark:text-white text-black">FEB 2023 – NOV 2023</time>
                             <ul className="mb-4 text-[12px] font-normal list-disc pl-8 dark:text-white text-black">
                                 <li>Maintaining and improving client websites</li>
                                 <li>Generating WordPress themes and plugins.</li>
