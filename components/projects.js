@@ -96,6 +96,18 @@ export default function Projects() {
                       <h3 className="text-22 font-bold uppercase">LGCY Power</h3>
                       <p className="text-body">Tags: wordpress, php, cakephp</p>
                   </div>
+
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://mimarosso.com/" target="_blank"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">mimarosso.com</div></a>
+                      <h3 className="text-22 font-bold uppercase">Mima Rosso</h3>
+                      <p className="text-body">Tags: Shopify, Liquid, CSS</p>
+                  </div>
+
+                  <div className="bg-[#e3e1ed] dark:bg-[#6246ea] dark:text-white p-7 rounded-lg grid grid-flow-row gap-5 hover:shadow-md hover:scale-110 trasition duration-300 ease-in-out">
+                      <a href="https://recollectionbrand.com/" target="_blank"><div className="h-12 w-52 text-[18px] font-bold hover:animate-pulse">recollectionbrand.com</div></a>
+                      <h3 className="text-22 font-bold uppercase">recollectionbrand</h3>
+                      <p className="text-body">Tags: Shopify, Liquid, CSS</p>
+                  </div>
                 </div>
               </div>
         </section>
